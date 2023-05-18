@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6618eaac-8362-4ff4-96bf-033d041376b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TesteCommit.java" afterDir="false" />
+    <list default="true" id="6618eaac-8362-4ff4-96bf-033d041376b3" name="Changes" comment="Criação classe&#10;TesteCommit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PwWj3eZeZ4bcBAB0Q5ifpiDjiO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,6 +46,19 @@
       <option name="presentableId" value="Default" />
       <updated>1684368757588</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criação classe&#10;TesteCommit">
+      <created>1684370642524</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684370642524</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criação classe TesteCommit" />
+    <MESSAGE value="Criação classe&#10;TesteCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação classe&#10;TesteCommit" />
   </component>
 </project>

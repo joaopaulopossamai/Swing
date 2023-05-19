@@ -6,6 +6,7 @@ public class HelloSwing extends JFrame{
     private JButton buttonMensagem;
     public JPanel panelPrincipal;
     private JTextField textMensagem;
+    private JRadioButton radioButton1;
 
     public HelloSwing() {
     buttonMensagem.addActionListener(new ActionListener() {

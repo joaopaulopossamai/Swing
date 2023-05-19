@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6618eaac-8362-4ff4-96bf-033d041376b3" name="Changes" comment="Criação classe&#10;TesteCommit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloSwing.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloSwing.java" afterDir="false" />
+    <list default="true" id="6618eaac-8362-4ff4-96bf-033d041376b3" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TesteCommit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloSwing.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloSwing.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloSwing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloSwing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -80,12 +78,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684371428427</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criação classe&#10;TesteCommit">
+      <created>1684373584641</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684373584641</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1684373763425</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684373763425</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação classe TesteCommit" />
     <MESSAGE value="Criação classe&#10;TesteCommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação classe&#10;TesteCommit" />
+    <MESSAGE value="Delet classe&#10;TesteCommit" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
